@@ -75,9 +75,6 @@ h1 {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
-
-
-
 .reviews_card:nth-child(1) > .photo {
     background: url("scr/letov.jpg") center no-repeat;
     background-size: cover;
